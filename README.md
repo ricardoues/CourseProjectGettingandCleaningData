@@ -1,4 +1,7 @@
-# Script run_analysis.R
+# Course Project for the course Getting and Cleaning Data. 
+
+
+### Script run_analysis.R
 
 
 ### Description 
