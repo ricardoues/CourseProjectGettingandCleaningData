@@ -17,9 +17,7 @@
     * LAYING
 
 
-2. Nominal : 
-
-      From 1 to 30. 
+2. Nominal : From 1 to 30. 
 
 3. Real :
        A real value between -0.6502453 and -0.0783064
