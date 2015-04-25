@@ -35,4 +35,7 @@ The script does not have arguments.
 
 The script displays the tidy data set generated in the action five (see section Usage) and generates the file tidy.txt which contains the tidy data set previously mentioned. 
 
+### Code Book 
+The code book for the variables can be accessed in the file CodeBook.md. 
+
 
